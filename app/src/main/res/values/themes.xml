@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AccesoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_tec</item>
+    </style>
+</resources>

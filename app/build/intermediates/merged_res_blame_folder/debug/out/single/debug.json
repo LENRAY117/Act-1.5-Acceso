@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.accesoapp-merged_res-31:/layout_activity_perfil.xml.flat",
+        "source": "com.example.accesoapp-main-33:/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-merged_res-31:\\drawable_foto_usuario.jpg.flat",
+        "source": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-main-33:\\drawable\\foto_usuario.jpg"
+    },
+    {
+        "merged": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-merged_res-31:\\drawable_foto_usuario.png.flat",
+        "source": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-main-33:\\drawable\\foto_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-merged_res-31:\\drawable_logo_tec.png.flat",
+        "source": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-main-33:\\drawable\\logo_tec.png"
+    },
+    {
+        "merged": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-merged_res-31:\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\xbox3\\.gradle\\daemon\\8.4\\com.example.accesoapp-main-33:\\layout\\activity_perfil.xml"
+    }
+]

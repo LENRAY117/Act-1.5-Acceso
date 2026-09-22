@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_tec">#0D47A1</color>
+    <color name="blanco">#FFFFFF</color>
+    <string name="app_name">084 A1.5 Acceso</string>
+    <style name="Theme.AccesoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_tec</item>
+    </style>
+</resources>

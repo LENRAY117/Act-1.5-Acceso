@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color azul_tec
+color blanco
+drawable foto_usuario
+drawable logo_tec
+id btnEntrar
+id btnSalir
+id etPassword
+id etUsuario
+id tvBienvenida
+layout activity_main
+layout activity_perfil
+string app_name
+style Theme.AccesoApp
